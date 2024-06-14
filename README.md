@@ -14,8 +14,8 @@ A simple yet secure password manager written in Python. This password manager al
 
 1. Clone the repository:
 ```sh
-   git clone https://github.com/yourusername/password-manager.git
-   cd password-manager
+   git clone https://github.com/rafneto/PWD-Manager.git
+   cd PWD-Manager
 ```
 
 2. Install the required dependencies:
